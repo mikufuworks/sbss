@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="block.png" x="196" y="0" width="50" height="50"/>
+	<SubTexture name="block_item.png" x="196" y="52" width="50" height="50"/>
+	<SubTexture name="ghost.png" x="102" y="0" width="92" height="90"/>
+	<SubTexture name="slime.png" x="0" y="0" width="100" height="117"/>
+</TextureAtlas>
